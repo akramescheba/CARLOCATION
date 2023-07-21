@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, TextInput, Button, FlatList, Image, StyleSheet } from 'react-native';
 
-const url = 'http://10.74.3.159:3000/ride';
+const url = 'http://10.74.3.159:3000/ride';  
 
 const CarSearch = () => {
   const [searchQuery, setSearchQuery] = useState('');
