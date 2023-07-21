@@ -1,13 +1,15 @@
 
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import {Ionicons, FontAwesome5 } from "@expo/vector-icons";
+import {Ionicons, FontAwesome5 ,FontAwesome} from "@expo/vector-icons";
 import Camera from '../Camera'
 import Agenda from '../Agenda'
 import Home from '../Home'
 import { StyleSheet, } from 'react-native';
 import CarList from '../CarList';
 import Connexion from '../Connexion'
+// import { SearchBar } from '@rneui/themed';
+import SearchBar from '../SearchBar'
 
 
 
@@ -43,11 +45,11 @@ const Footer = () => {
       }} />
 
 
-<BottomTab.Screen name="camera" component={Home}
+<BottomTab.Screen name="camera" component={SearchBar}
       options={{
-        title: 'CAMERA',
+        title: 'SEARCH',
         tabBarIcon: ({ }) => (
-          <FontAwesome5 name="camera" size={24} color="black" />
+<FontAwesome name="search" size={24} color="black" />
         ),
       }} />
 
