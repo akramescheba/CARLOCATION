@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "marque": "Toyota",
+      "modele": "Camry",
+      "transmission": "Automatique",
+      "annee": "2022",
+      "image": "https://staticeu-h2.izmocars.com/toolkit/commonassets/2022/22toyota/22toyotacamryhevpremsd8fb/22toyotacamryhevpremsd8fb_pixGallery/_gallerypix/toyota_camryhevpremsd8fb_angularfront.jpg",
+      "localisation": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      "description": "La Toyota Camry est une berline spacieuse et confortable qui offre une conduite souple et agréable. Son design élégant et ses caractéristiques de sécurité avancées en font un choix idéal pour les familles et les trajets quotidiens. Dotée d'une transmission automatique, la Camry est également équipée d'un moteur écoénergétique pour une efficacité maximale. Profitez de voyages paisibles avec la Camry 2022, l'une des voitures les plus fiables du marché."
+    },
+    {
+      "id": 2,
+      "marque": "Honda",
+      "modele": "Civic",
+      "transmission": "Manuelle",
+      "annee": "2021",
+      "image": "https://tdrresearch.azureedge.net/photos/chrome/Expanded/White/2021HOC020063/2021HOC02006301.jpg",
+      "localisation": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      "description": "La Honda Civic est une berline compacte sportive qui combine un design élégant avec des performances dynamiques. Dotée d'une transmission manuelle, la Civic offre une expérience de conduite engageante pour les amateurs de conduite. Avec son intérieur confortable et ses caractéristiques de sécurité avancées, la Civic est une voiture polyvalente pour les déplacements en ville et les escapades sur autoroute. Profitez de la fiabilité et de l'efficacité de la Honda Civic 2021, une valeur sûre parmi les berlines compactes."
+    },
+    {
+      "id": 3,
+      "marque": "Ford",
+      "modele": "Mustang",
+      "transmission": "Automatique",
+      "annee": "2023",
+      "image": "https://fr.ford.ca/cmslibs/content/dam/vdm_ford/live/en_ca/ford/nameplate/mustang/2023/collections/cyp/BYO_Mustang_2023.png",
+      "localisation": {
+        "latitude": 34.0522,
+        "longitude": -118.2437
+      },
+      "description": "La Ford Mustang est une légendaire voiture de sport au design emblématique et aux performances impressionnantes. Propulsée par un moteur puissant et dotée d'une transmission automatique, la Mustang offre une conduite exaltante sur la route. Son intérieur raffiné et ses technologies de pointe en font une voiture de sport confortable et polyvalente pour les trajets quotidiens et les aventures sur la route. Découvrez le plaisir de conduire avec la Ford Mustang 2023, un symbole de la performance américaine."
+    },
+    {
+      "id": 4,
+      "marque": "Mercedes",
+      "modele": "Classe A",
+      "transmission": "Automatique",
+      "annee": "2022",
+      "image": "https://www.web-automobile.com/wp-content/uploads/2022/04/classe-a-2022.jpg",
+      "localisation": {
+        "latitude": 41.8781,
+        "longitude": -87.6298
+      },
+      "description": "La Mercedes Classe A est une élégante berline de luxe qui associe des lignes raffinées à des performances impressionnantes. Avec une transmission automatique et un intérieur somptueux, la Classe A offre une expérience de conduite haut de gamme. Les caractéristiques de sécurité avancées et les technologies innovantes de Mercedes-Benz rendent chaque trajet sûr et agréable. Découvrez le luxe et le confort de la Mercedes Classe A 2022, une voiture qui allie sophistication et excellence automobile."
+    },
+    {
+      "id": 5,
+      "marque": "Renault",
+      "modele": "Clio",
+      "transmission": "Manuelle",
+      "annee": "2022",
+      "image": "https://www.largus.fr/images/images/clio-etech.jpg",
+      "localisation": {
+        "latitude": 48.7305,
+        "longitude": 2.2718
+      },
+      "description": "La Renault Clio est une voiture compacte au design moderne et aux fonctionnalités innovantes. Avec une transmission manuelle, la Clio offre une conduite réactive et dynamique. Son intérieur bien conçu offre confort et commodité pour les déplacements quotidiens. La Clio est également équipée de technologies avancées pour une connectivité et une sécurité optimales. Découvrez le charme français de la Renault Clio 2022, une voiture pratique et élégante pour la vie urbaine."
+    }
+  ]
+  
